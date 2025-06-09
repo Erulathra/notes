@@ -1,10 +1,11 @@
 # Nice blogs
 I found them nice and useful.
 
-
 ## Unreal Engine
-* [Ari's blog](https://ari.games/)
-* [Ari's notes](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)
+* [Ari's blog](https://ari.games/) - A Unreal Engine Guru. He works at Epic so he
+    know what is going on.
+* [Gamedev's Eye (Okiem Deva)](https://www.youtube.com/@OkiemDeva) - Another person
+    with extra ordinary knowledge and experience.
 
 ## Vulkan Rendering
 * [Vulkan Guide](https://vkguide.dev/) - Best place to start Vulkan journey.
@@ -15,3 +16,6 @@ I found them nice and useful.
 
 ## Slang
 * [Slang Vulkan example](https://www.saschawillems.de/blog/2025/06/03/shaders-for-vulkan-samples-now-also-available-in-slang/)
+
+## Engine Development
+* [DeltaTime is a frame behind](https://theorangeduck.com/page/delta-time-frame-behind)
